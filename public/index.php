@@ -5,7 +5,7 @@
  * Date: 26/03/2019
  * Time: 17:35
  */
-
+/** Main page : rooter */
 use App\Controllers\OffersController;
 use Core\Controllers\Controller;
 
